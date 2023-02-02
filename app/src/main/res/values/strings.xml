@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">26homework</string>
+    <string name="letsgo">lets_go</string>
+    <string name="select">select</string>
+    <string name="ok">ok</string>
+    <string name="selected">selected</string>
+</resources>
